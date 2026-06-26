@@ -42,7 +42,7 @@ Deliverables
   
 project files
 comming soon...
-Author
+
 
 Alice Mpiana Mumba
 
